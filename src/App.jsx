@@ -29,6 +29,10 @@ function App() {
    style={{ backgroundColor:"purple"}}
    > Purple</button>
 
+   <div className='bg-black text-white'>
+    <h2>React js</h2>
+   </div>
+
    </div>
 
    </div>
